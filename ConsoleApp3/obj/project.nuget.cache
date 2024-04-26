@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "plOYol+iwwkI4LyBKvtlgn5JmUFnmmyzxrytZss/ZagA9KU1hWuF1kUGqKrlmwnJDqL4w0qs/OGHGsIUe7eKQw==",
+  "dgSpecHash": "pB4aoAetjxZSl2aQUJWU5qPLoA+vbABdojv2L5fYqLZmt+VLICl3r7GJHWTqts+TwzCnUNn7LZ1CG/nRAvJ0Og==",
   "success": true,
   "projectFilePath": "E:\\Gourmet\\AddDB\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
   "expectedPackageFiles": [
@@ -52,11 +52,7 @@
     "C:\\Users\\hp\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+    "C:\\Users\\hp\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
